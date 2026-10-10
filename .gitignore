@@ -1,0 +1,6 @@
+.cache/
+node_modules/
+.DS_Store
+# Your questions stay local by default (assessment questions shouldn't be public).
+# Delete this line if you do want them in the repo.
+questions/*.md

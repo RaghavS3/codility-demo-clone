@@ -1,0 +1,12 @@
+{
+  "name": "codility-demo-clone",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local clone of the Codility demo test page: editor, Run code, Test Output, timer, Submit. Bring your own questions.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
